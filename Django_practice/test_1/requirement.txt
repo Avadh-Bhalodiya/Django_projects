@@ -1,0 +1,4 @@
+django
+django-admin
+django-widget-tweaks
+python3-tk
